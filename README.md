@@ -15,9 +15,6 @@ The dataset comprises the following fields:
 - addr: String variable representing Address
 - e: String variable representing a Dummy variable (always 1)
 
-## Purpose
-The primary objective of this project is to perform exploratory data analysis to gain insights into emergency call patterns. By analyzing various attributes such as location, timestamp, and type of emergency, we aim to uncover trends, patterns, and potentially valuable information that could aid emergency services or inform future decision-making processes.
-
 ## Contents
 ### Data Exploration:
 - Summary statistics
